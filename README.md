@@ -52,4 +52,7 @@ This project aims to predict the success of the Falcon 9 first stage landing. Sp
    jupyter notebook notebooks/interactive-visualization.ipynb
    jupyter notebook notebooks/classification.ipynb
 
+##Contributing
+
+This is my first repository on GitHub. I welcome any corrections or suggestions to improve the project. Feel free to open issues or submit pull requests with improvements!
    
