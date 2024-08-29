@@ -16,6 +16,10 @@ This project aims to predict the success of the Falcon 9 first stage landing. Sp
 
 - **Python:** Main programming language for data analysis and manipulation.
 - **Pandas:** For data cleaning, manipulation, and analysis.
+- **Matplotlib & Seaborn:** For data visualization.
+- **Folium:** For interactive maps.
+- **Scikit-Learn:** For machine learning models.
+- **BeautifulSoup:** For web scraping and data extraction.
 - **API Integration:** To extract real-time data from web services.
 - **Jupyter Notebook:** For documenting the entire project process.
 - **GitHub:** For version control and project sharing.
@@ -41,6 +45,11 @@ This project aims to predict the success of the Falcon 9 first stage landing. Sp
 3. **Run the Jupyter Notebook**
 
    ```bash
-   jupyter notebook notebooks/Falcon9_Prediction.ipynb
+   jupyter notebook notebooks/data_collection_from_api.ipynb
+   jupyter notebook notebooks/webscraping.ipynb
+   jupyter notebook notebooks/data_wrangling.ipynb
+   jupyter notebook notebooks/visualization.ipynb
+   jupyter notebook notebooks/interactive-visualization.ipynb
+   jupyter notebook notebooks/classification.ipynb
 
    
